@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">LetsGO</string>
+    <string name="budget">Holiday budget</string>
+    <string name="budget1">less than 20K</string>
+    <string name="budget2">20K to 50K</string>
+    <string name="budget3">less than 100K</string>
+    <string name="budget4">more than 100K</string>
+
+    <string name="distance">How far are we going</string>
+    <string name="distance1">local</string>
+    <string name="distance2">Inside country</string>
+    <string name="distance3">Abroad</string>
+
+    <string name="howLong">how long we away for?</string>
+    <string name="howLong1">3 to 5 days</string>
+    <string name="howLong2">7 to 10 days</string>
+    <string name="howLong3">more than 15 days</string>
+
+    <string name="TypeOfHoliday">type of Holiday</string>
+    <string name="TypeOfHoliday1">Honeymoon</string>
+    <string name="TypeOfHoliday2">pilgrimage places</string>
+    <string name="TypeOfHoliday3">Escape</string>
+
+    <string name="partners">partners</string>
+    <string name="partners1">Friends</string>
+    <string name="partners2">Family</string>
+    <string name="partners3">Solo</string>
+    <string name="Climate">climate</string>
+    <string name="Climate1">Chill and Comfy</string>
+    <string name="Climate2">Warm and Lit</string>
+    <string name="Climate3">Anything but don\'t kill me</string>
+    <string name="TypeOfTransport">Type of Transport</string>
+    <string name="TypeOfTransport1">By Road</string>
+    <string name="TypeOfTransport2">BY Train</string>
+    <string name="TypeOfTransport3">By Air</string>
+
+    <string name="title_activity_quiz">quiz</string>
+    <!-- Pligrimage -->
+    <string name="bali">Bali</string>
+        <string name="baliD">Bali is an island and province of Indonesia. The province includes the island of Bali and a few smaller neighbouring islands, notably Nusa Penida, Nusa Lembongan and Nusa Ceningan.</string>
+    <string name="goldenTemple">Golden Temple</string>
+        <string name="goldenTempleD">Sri Harmandir Sahib ("The abode of God"), also known as Darbar Sahib informally referred to as the Golden Temple, is a Gurdwara located in the city of Amritsar, Punjab, India. It is one of the most revered spiritual sites of Sikhism.</string>
+    <string name="shridi">Shridi</string>
+        <string name="shridiD">Shirdi is a town in the state of Maharashtra, in western India. It\'s known as the former home of revered spiritual leader Sai Baba, and as a major pilgrimage site.</string>
+    <string name="kedarnath">Kedarnath</string>
+        <string name="kedarnathD">Kēdārnāth Mandir (Kedarnath Temple) is a Hindu temple dedicated to Lord Shiva. It is on the Garhwal Himalayan range near the Mandakini river in Kedarnath, Uttarakhand in India</string>
+    <!-- HoneyMoon -->
+   <string name="jaisalmer">Jaisalmer</string>
+        <string name="jaiselmerD">Jaisalmer is a former medieval trading center and a princely state in the western Indian state of Rajasthan, in the heart of the Thar Desert. Known as the "Golden City," </string>
+    <string name="manali">Manali</string>
+        <string name="manaliD">Manali is a resort town nestled in the mountains of the Indian state of Himachal Pradesh near the northern end of the Kullu Valley, at an altitude of 2,050 m (6,726 ft) in the Beas River Valley. It is located in the Kullu district</string>
+    <string name="shimla">Shimla</string>
+        <string name="shimlaD">Shimla also known as Simla, is the capital and the largest city of the northern Indian state of Himachal Pradesh.</string>
+    <string name="goa">Goa</string>
+        <string name="goaD">Goa /ˈɡoʊ.ə/ ( About this sound listen) is a state in India within the coastal region known as the Konkan, in Western India. It is bounded by Maharashtra to the north and Karnataka to the east and south, with the Arabian Sea forming its Western coast.</string>
+    <string name="switzerland">Switzerland</string>
+        <string name="switzerlandD">Switzerland officially the Swiss Confederation, is a federal republic in Europe. It consists of 26 cantons, and the city of Bern is the seat of the federal authorities. The country is situated in Western-Central Europe, and is bordered by Italy to the south, France to the west, Germany to the north, and Austria and Liechtenstein</string>
+
+    <!-- warm -->
+    <string name="chennai">Chennai</string>
+        <string name="chennaiD">Chennai is the capital of the Indian state of Tamil Nadu. Located on the Coromandel Coast off the Bay of Bengal, it is one of the biggest cultural, economic and educational centres in South India And is very famous for its sarees , food and temples.
+</string>
+    <!-- chill -->
+
+    <string name="ganktonk">Ganktonk</string>
+        <string name="ganktonkD">Gangtok is a municipality, the capital and the largest town of the Indian state of Sikkim. It also is the headquarters of the East Sikkim district. Gangtok is located in the eastern Himalayan range, at an elevation of 1,650 m </string>
+    <string name="darjeeling">Darjeeling</string>
+        <string name="darjeelingD">"Darjeeling is a town and a municipality in the Indian state of West Bengal. It is located in the Lesser Himalayas at an elevation of 6,700 ft (2,042.2 m). It is noted for its tea industry, its views of the Kangchenjunga, the world's third-highest mountain, and the Darjeeling Himalayan Railway, a UNESCO World Heritage Site."</string>
+
+</resources>
+
